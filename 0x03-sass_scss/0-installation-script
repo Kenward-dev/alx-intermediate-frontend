@@ -1,0 +1,13 @@
+1. Installed nvm by running:
+   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+2. Exited and reopened the terminal.
+
+3. Installed Node.js version 20.16 by running:
+   nvm install 20.16
+
+4. Installed SASS globally by running:
+   npm install -g sass
+
+5. Verified installation with:
+   sass --version
